@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá 👋
+- 🌱 Atualmente estou aprendendo JavaScript e a Stack React
 <!--
 **GabrielHenriP/GabrielHenriP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
