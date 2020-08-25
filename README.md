@@ -1,5 +1,6 @@
 ### Olá 👋
-- 🌱 Atualmente estou aprendendo JavaScript e a Stack React
+- 🔭 Praticando e aprimorando minhas habilidades em HTML, e CSS
+- 🌱 Atualmente estou me aprofundando em conceitos de JavaScript com aplicações em Nodejs. Estou também iniciando estudos em React, React Native, Express e MongoDB
 <!--
 **GabrielHenriP/GabrielHenriP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
