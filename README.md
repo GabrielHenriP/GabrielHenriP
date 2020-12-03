@@ -1,6 +1,6 @@
 ### Olá 👋
-- 🔭 Praticando e aprimorando minhas habilidades em HTML, CSS e Javascript
-- 🌱 Atualmente estou me aprofundando em conceitos de JavaScript com aplicações em Nodejs. Estou também iniciando estudos em React, React Native, Express e MongoDB
+- 🔭 Atualmente estou trabalhando(voluntário) com React Native e Firebase para a criação do app 'Brincando Com A Leitura'
+- 🌱 Em paralelo também estou realizando a formação fullstack do freeCodeCamp.
 <!--
 **GabrielHenriP/GabrielHenriP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
