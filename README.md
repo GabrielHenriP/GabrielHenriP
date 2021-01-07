@@ -4,7 +4,7 @@
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=GabrielHenriP&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/GabrielHenriP/GabrielHenriP)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriP&show_icons=true&hide=java,objective-c&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515))](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenriP&langs_count=6&layout=compact&show_icons=true&hide=java,objective-c&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515))](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **GabrielHenriP/GabrielHenriP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
